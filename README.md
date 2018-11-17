@@ -2,4 +2,4 @@
 
 Second revision of the [GitHub Essentials](https://githubessentials)book. 
 
-New changes.
+New changes v2.
